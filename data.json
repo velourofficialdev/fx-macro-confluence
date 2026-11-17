@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T04:42:38.283Z",
+  "updated": "2026-11-17T10:36:16.719Z",
   "markets": {
     "dxy": {
       "label": "DXY",
@@ -90,13 +90,12 @@
     "gold": {
       "label": "GOLD",
       "series": "NASDAQQGLDI",
-      "value": 2385.34,
-      "display": "2,385.34",
-      "change": 4,
-      "changePct": 0.168,
-      "date": "2026-11-13",
+      "value": 2321.63,
+      "display": "2,321.63",
+      "change": -63.710000000000036,
+      "changePct": -2.671,
+      "date": "2026-11-16",
       "spark": [
-        2529.93,
         2547.26,
         2508.06,
         2524.7,
@@ -125,7 +124,8 @@
         2471.14,
         2445.86,
         2381.34,
-        2385.34
+        2385.34,
+        2321.63
       ],
       "unit": "",
       "suffix": ""
@@ -1451,16 +1451,22 @@
   },
   "news": [
     {
-      "title": "US dollar hits 19-month peak on Fed hike bets; Aussie dips",
+      "title": "Gold lingers near more-than-one-year low on Fed hike bets",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVGd6c05RMXpCQzBvWjhLZlZ6cjc4OUZ0cjZaSWxzZk9leV9WbG1EVmhoVlJfTHZZRFkxZml4Rll3TXd6SGc0dmtiSHFsYkVQWThZdkpxb3dGQkhpSkgyVC1HQlV5WkZQaHU4N3B2b2RELWdDaGpZLWtmbHo2cllMNE9tN29pYnJGM1Z4eFJ6bmNQdHJFX0lNTHZtV0x4MlNhT284LThTc1hTY2xlcEEta0wwNjg?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-11-17T01:47:00.000Z"
+    },
+    {
+      "title": "US dollar hits 19-month peak on Fed hike bets, while NZ dollar slumps",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb0Z6TDRSbVp3QXhMLUlLR3Vaam5aam1wVW9LV2tGSmJPZVFaU2dCNnhzVjJSY25lNWR3N1lmOFVPeno3UWpkamE2SDVxOVVfcUxUY0RxYTd5cm8wYzg0M1FVZTdrVXU2RXJzbXFmNElPb0ZqVVJ2WUxhS1B5WXVhRFFobUJPb2FaNzdsdlFkNmludUtnSXY3eUJoZ0J5UXFJdTlQUVhR?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-11-17T01:42:00.000Z"
     },
     {
-      "title": "Gold hovers near over one-year low as firm dollar, Fed-hike bets weigh",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVGd6c05RMXpCQzBvWjhLZlZ6cjc4OUZ0cjZaSWxzZk9leV9WbG1EVmhoVlJfTHZZRFkxZml4Rll3TXd6SGc0dmtiSHFsYkVQWThZdkpxb3dGQkhpSkgyVC1HQlV5WkZQaHU4N3B2b2RELWdDaGpZLWtmbHo2cllMNE9tN29pYnJGM1Z4eFJ6bmNQdHJFX0lNTHZtV0x4MlNhT284LThTc1hTY2xlcEEta0wwNjg?oc=5",
+      "title": "Morning Bid: Markets shaken, not stirred, as US-China tech war heats up",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GRG5BVmUxVXppTDIxS2lSYjc2T2FqUzYxLVB5WGFwNnBfNzduYk1waU9NQzFrWmU2c3dvZGYtM183UmUzQk5JOUxYX3luZGRwbkkwbnpPYWdNcmpKWVJlTWF5V21ObkV2UTQ5aTRtRjA3aEwtckxnTWdNYUZpdm8?oc=5",
       "source": "Reuters",
-      "publishedAt": "2026-11-17T01:47:00.000Z"
+      "publishedAt": "2026-11-17T05:33:00.000Z"
     },
     {
       "title": "Gold sinks to 1-year low as Treasury yields and dollar bite, set for worst year since 2015",
@@ -1475,25 +1481,19 @@
       "publishedAt": "2026-11-16T20:57:43.000Z"
     },
     {
-      "title": "Gold drops to more than one-year low as US dollar marches higher",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR0w3QnNOYVBGYjdBMGJDeml5RExhSzMzaGVTUEQ2eEdLNHhHQzRoV2thNUo4TkVGYmNfc3NsSGpVVVF2OWxCZ21CNzBMSGs0S3NuZ2Rla1d4WTR0RGJwcllfYnZ6dlR5ZGZXa3dMakUxZmNDWFExYk9HNTkyLTN6aWF0MlRRbzN4aUJUVnVCMk1fdlpVN1B0bE1QM3dkaENDNEwzaHRORFFjVDYw?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-11-16T01:25:00.000Z"
-    },
-    {
-      "title": "China's economy falters as factory output, retail sales undershoot expectations",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVzZkMk1FbkdXMWpRaWFDbU05ZmJGY19kTS1BT2FjRE96eGRGSzNGY1l4cnAxS2VGVEY5SjE2a0E3S3h2TnhXV1RlbE1BYUVielk3ZEN3TTlaX0pfZ2M1VnVpNmp0bVZOczJ0cThYaFFLUUtyVXB4OUZjSDI5c3VHWVk3Yk80SzhVdlJxcVlwNS1QZG9TZ0dMVExLMm4?oc=5",
-      "source": "Reuters",
-      "publishedAt": "2026-11-16T02:06:00.000Z"
-    },
-    {
       "title": "Supertanker rates plunge more than 60% from record highs",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY0ZJYjdxQndHZmhXNXpBLTVhN0p2NmtoMXliTHZFeURJMU05VVpzQW16STBtZzNuMnUyelRkTzRPODgxR21pdm9YY2JIaUhPbmM2MVVDMVlPSkp5UjY1VjVkbVkzQmhmZGR5TXFiMTRuMkc1SWF5a1hVVGZQdUlFUjA0Y3Z6YnJtX1BKTkF3TXpuMXc5Nk9OMTRjTVp4eXAtanJkOA?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-11-16T14:53:43.000Z"
     },
     {
-      "title": "Asia shares slide on tech weakness ahead of Nvidia earnings",
+      "title": "Gold drops to more than one-year low as US dollar marches higher",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR0w3QnNOYVBGYjdBMGJDeml5RExhSzMzaGVTUEQ2eEdLNHhHQzRoV2thNUo4TkVGYmNfc3NsSGpVVVF2OWxCZ21CNzBMSGs0S3NuZ2Rla1d4WTR0RGJwcllfYnZ6dlR5ZGZXa3dMakUxZmNDWFExYk9HNTkyLTN6aWF0MlRRbzN4aUJUVnVCMk1fdlpVN1B0bE1QM3dkaENDNEwzaHRORFFjVDYw?oc=5",
+      "source": "Reuters",
+      "publishedAt": "2026-11-16T01:25:00.000Z"
+    },
+    {
+      "title": "European shares fall as Deutsche Bank slides, tech stocks tumble ahead of Nvidia earnings",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbHY5U3ZMUmhWeEViMkJTbW9ObHlQYWRWbmdxWDhXMUdaWFRvLVdRY01oaTJJb3lmOFBiaWpQMEFlTFk5R2ttRnBaT18zaF9Jbk9od2Rza0cyMXJ6Z3JlalJDdG9neTVhQ3pJRG05SE9NQUYxZkFvQmQ5bnVfTi13amFNOA?oc=5",
       "source": "Reuters",
       "publishedAt": "2026-11-17T01:22:00.000Z"
